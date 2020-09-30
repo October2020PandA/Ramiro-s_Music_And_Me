@@ -1,0 +1,10 @@
+Music Collection and Identifier
+
+Objective: The purpose of my website is to create a platform where 
+a music lover can get access to studio quality music, such as Spoitfy 
+or Apple, but also access to amateur artists/music. If possible I would
+also like to include a section where a user is able to identify the music 
+via an artist or song.
+
+Features: I would need to use several API's in order to get access to all
+music data from several streaming services.
